@@ -16,5 +16,3 @@ Augmented Reality Spectacles Fit-On app
  <img src="https://github.com/MalingaBandara/AR-Spectacles-Fit-on/blob/main/t1.PNG" width="150vh" >
  <img src="https://github.com/MalingaBandara/AR-Spectacles-Fit-on/blob/main/t2.PNG" width="150vh" >
 
-<h4>03). Trying Glasses</h4>
- <img src="https://github.com/MalingaBandara/AR-Spectacles-Fit-on/blob/main/app.gif" width="150vh" >
